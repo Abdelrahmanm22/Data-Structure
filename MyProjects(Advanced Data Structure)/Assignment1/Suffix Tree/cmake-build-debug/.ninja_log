@@ -1,0 +1,24 @@
+# ninja log v5
+11	512	6932328595523835	CMakeFiles/Suffix_Tree.dir/main.cpp.obj	183a4988a39f625c
+512	1956	6932328609916270	Suffix_Tree.exe	e286cf0e8e9f59e8
+5	375	6925706381266231	build.ninja	21b8583272d6d3d2
+3	358	6932330577650949	CMakeFiles/Suffix_Tree.dir/main.cpp.obj	183a4988a39f625c
+358	584	6932330579831298	Suffix_Tree.exe	e286cf0e8e9f59e8
+3	342	6932330694714673	CMakeFiles/Suffix_Tree.dir/main.cpp.obj	183a4988a39f625c
+343	490	6932330696146166	Suffix_Tree.exe	e286cf0e8e9f59e8
+4	338	6932330746747318	CMakeFiles/Suffix_Tree.dir/main.cpp.obj	183a4988a39f625c
+339	482	6932330748145021	Suffix_Tree.exe	e286cf0e8e9f59e8
+3	318	6932331569801998	CMakeFiles/Suffix_Tree.dir/main.cpp.obj	183a4988a39f625c
+319	478	6932331571386689	Suffix_Tree.exe	e286cf0e8e9f59e8
+3	335	6932331751047468	CMakeFiles/Suffix_Tree.dir/main.cpp.obj	183a4988a39f625c
+335	503	6932331752734691	Suffix_Tree.exe	e286cf0e8e9f59e8
+3	343	6932332255724003	CMakeFiles/Suffix_Tree.dir/main.cpp.obj	183a4988a39f625c
+343	495	6932332257208130	Suffix_Tree.exe	e286cf0e8e9f59e8
+3	348	6932333515050580	CMakeFiles/Suffix_Tree.dir/main.cpp.obj	183a4988a39f625c
+352	509	6932333516645385	Suffix_Tree.exe	e286cf0e8e9f59e8
+3	322	6932333766390264	CMakeFiles/Suffix_Tree.dir/main.cpp.obj	183a4988a39f625c
+323	471	6932333767844164	Suffix_Tree.exe	e286cf0e8e9f59e8
+3	339	6932334099418240	CMakeFiles/Suffix_Tree.dir/main.cpp.obj	183a4988a39f625c
+344	502	6932334100987653	Suffix_Tree.exe	e286cf0e8e9f59e8
+3	320	6932334828841746	CMakeFiles/Suffix_Tree.dir/main.cpp.obj	183a4988a39f625c
+323	470	6932334830312758	Suffix_Tree.exe	e286cf0e8e9f59e8
