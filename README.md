@@ -87,18 +87,18 @@ nodes have the same value.
 Write an algorithm that accepts an arithmetic expression written in prefix notation and builds an expression tree for it, then traverse to evaluate the expression. The
 evaluation should start after the whole expression has been entered.
 
-*Problem 7:(Tree) Tree Flipping
+* Problem 7:(Tree) Tree Flipping
 Assume a binary tree. Write a flip method that takes the node which the mirror
 image of the tree will start from, if no parameter is sent to the function the default
 value will be the root node.
-*Problem 8:(Tree)Tree Traversal
+* Problem 8:(Tree)Tree Traversal
 Assume a binary tree of non-repeated characters. Write a function printPostOrder
 that takes two strings representing the preorder traversal and the in-order traversal
 of the tree. Then the function prints the post-order traversal. The function prototype
 is: void printPostOrder (string preorder, string inorder)
 A sample function call and the corresponding output is shown below:
 printPostOrder ( "ABFGC", "FBGAC")
-*Problem 9:(Tree) Tree Traversal
+* Problem 9:(Tree) Tree Traversal
 Assume a binary tree of non-repeated characters. Write a function printPostOrder
 that takes two strings representing the preorder traversal and the in-order traversal
 of the tree. Then the function prints the post-order traversal. The function prototype
